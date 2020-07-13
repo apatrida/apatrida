@@ -1,4 +1,4 @@
-### Hi there 👋
+Software developer with over 30 years of experience.
 
 <!--
 **apatrida/apatrida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
