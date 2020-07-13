@@ -4,7 +4,11 @@ Software developer with over 30 years of experience.
 
 [![FasterXML/jackson-module-kotlin](https://github-readme-stats.vercel.app/api/pin/?username=FasterXML&repo=jackson-module-kotlin)](https://github.com/FasterXML/jackson-module-kotlin)
 
+[![JetBrains/Kotlin](https://github-readme-stats.vercel.app/api/pin/?username=jetbrains&repo=kotlin)](https://github.com/jetbrains/kotlin)
+
 [![Koheisve/Klutter](https://github-readme-stats.vercel.app/api/pin/?username=kohesive&repo=klutter)](https://github.com/kohesive/klutter)
+
+[![Koheisve/Kovert](https://github-readme-stats.vercel.app/api/pin/?username=kohesive&repo=kovert)](https://github.com/kohesive/kovert)
 
 [![Koheisve/Cuarentena](https://github-readme-stats.vercel.app/api/pin/?username=kohesive&repo=cuarentena)](https://github.com/kohesive/cuarentena)
 
