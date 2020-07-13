@@ -1,4 +1,9 @@
-Software developer with over 30 years of experience.
+### Software developer with over 30 years of experience.
+
+* [Stack Overflow](https://stackoverflow.com/users/3679676/jayson-minard) - top 0.01% (1,775 out of 12.7 million)
+* [LinkedIn](https://www.linkedin.com/in/jaysonminard/)
+
+### Leading / Contributing to these projects:
 
 [![Kohesive/solr-undertow](https://github-readme-stats.vercel.app/api/pin/?username=kohesive&repo=solr-undertow)](https://github.com/kohesive/solr-undertow) [![FasterXML/jackson-module-kotlin](https://github-readme-stats.vercel.app/api/pin/?username=FasterXML&repo=jackson-module-kotlin)](https://github.com/FasterXML/jackson-module-kotlin) [![JetBrains/Kotlin](https://github-readme-stats.vercel.app/api/pin/?username=jetbrains&repo=kotlin)](https://github.com/jetbrains/kotlin) [![Koheisve/Klutter](https://github-readme-stats.vercel.app/api/pin/?username=kohesive&repo=klutter)](https://github.com/kohesive/klutter) [![Koheisve/Kovert](https://github-readme-stats.vercel.app/api/pin/?username=kohesive&repo=kovert)](https://github.com/kohesive/kovert) [![Koheisve/Cuarentena](https://github-readme-stats.vercel.app/api/pin/?username=kohesive&repo=cuarentena)](https://github.com/kohesive/cuarentena) [![Koheisve/Chillambda](https://github-readme-stats.vercel.app/api/pin/?username=kohesive&repo=chillambda)](https://github.com/kohesive/chillambda)
 
