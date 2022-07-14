@@ -1,6 +1,6 @@
 ### Software developer with over 30 years of experience.
 
-* [Stack Overflow](https://stackoverflow.com/users/3679676/jayson-minard) - top 0.01% (1,775 out of 12.7 million)
+* [Stack Overflow](https://stackoverflow.com/users/3679676/jayson-minard) - top 0.01% (1,500 out of 18 million)
 * [LinkedIn](https://www.linkedin.com/in/jaysonminard/)
 
 ### Leading / Contributing to these projects:
