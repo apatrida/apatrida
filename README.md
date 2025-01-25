@@ -3,7 +3,7 @@
 Novell · Borland · BEA · Abebooks · Amazon · Prezi · Apple · Locals · Rumble
 
 * jayson@sort.dev
-* [Résumé / CV](https://jaysonminard.com
+* [Résumé / CV](https://jaysonminard.com)
 * [LinkedIn](https://www.linkedin.com/in/jaysonminard/) 
 
 
